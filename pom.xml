@@ -8,17 +8,17 @@
     <parent>
         <groupId>com.reedelk</groupId>
         <artifactId>module-parent</artifactId>
-        <version>1.0.5</version>
+        <version>1.0.6</version>
     </parent>
 
-    <version>1.0.5</version>
+    <version>1.0.6</version>
     <artifactId>module-jwt</artifactId>
 
     <packaging>bundle</packaging>
 
     <properties>
         <import.package.extra>com.reedelk.license</import.package.extra>
-        <reedelk.version>1.0.5</reedelk.version>
+        <reedelk.version>1.0.6</reedelk.version>
         <java.jwt.version>3.10.3</java.jwt.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.target>1.8</maven.compiler.target>
