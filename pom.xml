@@ -17,7 +17,6 @@
     <packaging>bundle</packaging>
 
     <properties>
-        <import.package.extra>com.reedelk.license</import.package.extra>
         <reedelk.version>1.0.6</reedelk.version>
         <java.jwt.version>3.10.3</java.jwt.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
